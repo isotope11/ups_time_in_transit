@@ -5,6 +5,7 @@ Ruby 1.8.7
 Usage:
 
   load "isotope/time_in_transit/time_in_transit.rb"
+
   options_hash = {
       :transit_from_political_division_1 => "Alabama",
       :transit_from_postcode_primary_low => "35071",
